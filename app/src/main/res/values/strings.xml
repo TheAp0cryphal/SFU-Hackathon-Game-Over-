@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoSFU : The Game</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="Instructions"></string>
+    <string name="Author">Lead Developers: Tanishk Sharma and Archit Verma. Storywriter: Raj Patel and Piyush Khurana. Character Design: Aru Bhola</string>
+</resources>
